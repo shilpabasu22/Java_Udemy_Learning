@@ -13,14 +13,12 @@ public class FirstLastDigitSum {
     public static int sumFirstAndLastDigit(int number){
         int firstDigit;
         int lastDigit;
-        int originalNumber;
 
         if(number<0){
             return -1;
         }
 
         lastDigit = number%10;
-        System.out.println("Last Digit: "+lastDigit);
         do{
             if(number<10){
                 firstDigit = number;
