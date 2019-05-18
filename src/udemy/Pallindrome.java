@@ -21,7 +21,7 @@ public class Pallindrome {
             num = num / 10;
         }
         System.out.println("Number = "+originalNumber);
-        System.out.println("Reverser = "+reverse);
+        System.out.println("Reverse = "+reverse);
         if(originalNumber == reverse){
             numberPallindrome = true;
         }else{
