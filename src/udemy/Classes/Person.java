@@ -1,4 +1,4 @@
-package udemy;
+package udemy.Classes;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package udemy;
+package udemy.Classes.Constructor;
 
 public class Wall {
     public static void main(String[] args) {
