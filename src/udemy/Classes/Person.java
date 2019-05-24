@@ -37,15 +37,15 @@ public class Person {
     }
 
     public String getLastName() {
-        return this.lastName;
+        return lastName;
     }
 
     public int getAge() {
-        return this.age;
+        return age;
     }
 
     public String getFirstName(){
-        return this.firstName;
+        return firstName;
     }
 
     public boolean isTeen(){

@@ -24,11 +24,11 @@ public class SimpleCalculator {
     }
 
     public double getFirstNumber() {
-        return this.firstNumber;
+        return firstNumber;
     }
 
     public double getSecondNumber() {
-        return this.secondNumber;
+        return secondNumber;
     }
 
     public double getAdditionResult(){

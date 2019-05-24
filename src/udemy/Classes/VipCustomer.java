@@ -38,14 +38,14 @@ public class VipCustomer {
     }
 
     public String getName() {
-        return this.name;
+        return name;
     }
 
     public double getCreditLimit() {
-        return this.creditLimit;
+        return creditLimit;
     }
 
     public String getEmailAddress() {
-        return this.emailAddress;
+        return emailAddress;
     }
 }

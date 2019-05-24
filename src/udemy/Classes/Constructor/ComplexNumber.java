@@ -24,11 +24,11 @@ public class ComplexNumber {
     }
 
     public double getReal() {
-        return this.real;
+        return real;
     }
 
     public double getImaginary() {
-        return this.imaginary;
+        return imaginary;
     }
 
     public void add(double real, double imaginary){
